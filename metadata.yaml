@@ -1,0 +1,36 @@
+_repo: The-Normans-in-European-history_72514
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haskins, Charles Homer
+    birthdate: 1870
+    deathdate: 1937
+    gutenberg_agent_id: '52505'
+    url: http://www.gutenberg.org/2009/agents/52505
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Homer_Haskins
+description: ''
+gutenberg_issued: '2023-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72514'
+  lccn: '15022077'
+language: en
+pgterms:marc904: https://archive.org/details/normansineuropea00haskuoft
+pgterms:marc905: 20200622131432haskins
+pgterms:marc906: '1915'
+pgterms:marc907: US
+production_note: Brian Wilson, Turgut Dincer and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aBoston :$bHoughton Mifflin, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Medieval period, 1066-1485'
+- !lcsh 'Europe -- History'
+- !lcsh 'Normans -- Europe'
+- !lcc 'D'
+- GITenberg
+title: The Normans in European history
+url: http://www.gutenberg.org/ebooks/72514
